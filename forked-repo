@@ -1,0 +1,44 @@
+  "fork": false,
+  "url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator",
+  "forks_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/forks",
+  "keys_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/keys{/key_id}",
+  "collaborators_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/teams",
+  "hooks_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/hooks",
+  "issue_events_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/events",
+  "assignees_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/assignees{/user}",
+  "branches_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/branches{/branch}",
+  "tags_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/tags",
+  "blobs_url": "https://api.github.com/repos/zeblanov/SimpleInterestCalculator/git/blobs{/sha}",
+--
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "disabled": false,
+  "open_issues_count": 0,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+--
+  "allow_forking": true,
+  "is_template": false,
+  "web_commit_signoff_required": false,
+  "has_pull_requests": true,
+  "pull_request_creation_policy": "all",
+  "topics": [
+
+  ],
+  "visibility": "public",
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "main",
+  "temp_clone_token": null,
+  "network_count": 0,
+  "subscribers_count": 0
+}
+
