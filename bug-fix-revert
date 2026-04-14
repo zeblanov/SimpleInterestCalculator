@@ -1,0 +1,14 @@
+# Perintah yang dijalankan:
+curl -s https://api.github.com/repos/zeblanov/SimpleInterestCalculator/pulls?state=all | grep -E "html_url|base|repo|full_name"
+
+# Output Terminal:
+"html_url": "https://github.com/zeblanov/SimpleInterestCalculator/pull/1",
+"base": {
+  "label": "zeblanov:main",
+  "ref": "main",
+  "repo": {
+    "full_name": "zeblanov/SimpleInterestCalculator",
+    "html_url": "https://github.com/zeblanov/SimpleInterestCalculator",
+    "fork": true
+  }
+}
